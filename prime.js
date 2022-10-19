@@ -15,11 +15,11 @@ for(i=1;i<=50;i++)
   
 if(count_factors==2)
 {
-  console.log(i, "is prime no:")
+  console.log(i, "Prime Number:")
   
 }
 else
 {
-   console.log(i,"is not prime number")
+   console.log(i,"Not a Prime Number")
 }
     }
